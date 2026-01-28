@@ -16,3 +16,15 @@
     5 000 CHF
   </div>
 </section>
+<div style="text-align:center; padding:40px 0; background:#000;">
+  <img src="https://raw.githubusercontent.com/djermas/aenthanax-temple/main/image_88eac9.png" 
+       alt="Sceau d'Équilibre Mâat" 
+       style="width:350px; border-radius:50%; box-shadow: 0 0 50px rgba(0, 238, 255, 0.3); border: 1px solid #D4AF37;">
+  
+  <h2 style="color:#D4AF37; letter-spacing:8px; margin-top:20px; font-family:serif;">
+    L'ÉQUILIBRE EST ÉTABLI
+  </h2>
+  <p style="color:#00EEFF; font-style:italic;">
+    "La Pierre Noire et la Plume d'Oie pèsent le même poids dans le Royaume."
+  </p>
+</div>
